@@ -1,0 +1,4 @@
+﻿  game of death.cpp
+C:\Users\na3ani3oo\source\repos\game of death\game of death\game of death.cpp(70,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\na3ani3oo\source\repos\game of death\game of death\game of death.cpp(119,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  game of death.vcxproj -> C:\Users\na3ani3oo\source\repos\game of death\x64\Debug\game of death.exe
